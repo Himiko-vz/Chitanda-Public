@@ -13,18 +13,18 @@ global.APIKeys = {
 	'https://zenzapi.xyz': '805a6c3fa9', //Apikey Premium
 }
 global.Prefix = 'Multi'
-global.meki = '6285878313791'
-global.ownerNumber = '6285878313791'
-global.botname = 'Ｃｈｉｔａｎｄａ - ＭＤ' 
+global.meki = '6282132156123'
+global.ownerNumber = '6282132156123'
+global.botname = 'itsme HIMIKO' 
 global.ownername = '𝙸 𝙰𝚖 𝙺𝚒𝚉𝚊𝚔𝚒𝚇𝙳'
-global.owner = ['6285878313791'] 
-global.pemilik = ['6285878313791'] 
-global.premium = ['6285878313791'] 
-global.pengguna = '𝙺𝙸𝚉𝙰𝙺𝙸𝚇𝙳'
-global.botnma = 'Ｃｈｉｔａｎｄａ - ＭＤ' 
-global.ownernma = '𝙸 𝙰𝚖 𝙺𝚒𝚉𝚊𝚔𝚒𝚇𝙳'
-global.packname = '✨ 𝙺𝙸𝚉𝙰𝙺𝙸𝚇𝙳 ✨' 
-global.author = 'Ｃｈｉｔａｎｄａ - ＭＤ' 
+global.owner = ['6282132156123'] 
+global.pemilik = ['6282132156123'] 
+global.premium = ['6282132156123'] 
+global.pengguna = 'kevin'
+global.botnma = 'itsme HIMIKO' 
+global.ownernma = 'Kevin'
+global.packname = '✨ KEVIN AFSAR ✨' 
+global.author = 'Itsme HIMIKO ' 
 global.sessionName = 'kizakixd'
 global.prefa = ['#','!','/','']
 global.sp = '» ' 
@@ -32,7 +32,7 @@ global.mess = {
     success: 'Berhasil.',
     admin: 'Fitur Khusus Admin Group!',
     botAdmin: 'Bot Harus Menjadi Admin Terlebih Dahulu!',
-    owner: 'Fitur Khusus Owner Bot',
+    owner: 'Fitur Khusus KEVIN GANTENG!!',
     group: 'Fitur Digunakan Hanya Untuk Group!',
     private: 'Fitur Digunakan Hanya Untuk Private Chat!',
     bot: 'Fitur Khusus Pengguna Nomor Bot',
@@ -42,7 +42,7 @@ global.mess = {
     wrongFormat: 'Perintah Salah!!\nSertakan Link setelah Command..',
     example1: 'Welcome @user Di Group @subject Jangan Lupa Baca Rules @desc\n\nNote :\n1. @user (Mention User Join)\n2. @subject (Group Name)\n3. @tanggal (Date Now)\n4. @desc (Get Description Group)'
 ,
-    example2: 'Good Bye @user Di Group @subject Jangan Lupa Baca Rules @desc\n\nNote :\n1. @user (Mention User Join)\n2. @subject (Group Name)\n3. @tanggal (Date Now)\n4. @desc (Get Description Group)'    
+    example2: 'Good Bye Beban @user Di Group @subject Jangan Lupa Baca Rules @desc\n\nNote :\n1. @user (Mention User Join)\n2. @subject (Group Name)\n3. @tanggal (Date Now)\n4. @desc (Get Description Group)'    
 }
 global.limitawal = {
     premium: "Infinity",
