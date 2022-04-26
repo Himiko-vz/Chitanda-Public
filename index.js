@@ -89,7 +89,7 @@ Welcome 👋`} )
                 } else if (anu.action == 'remove') {
                     Zaki.sendMessage(anu.id, { image: Tol, contextInfo: { mentionedJid: [num] }, caption: `@${num.split("@")[0]} Left ${metadata.subject}
 
-Good Bye 👋` })
+Good Bye Beban 👋` })
                 }
             }
         } catch (err) {
